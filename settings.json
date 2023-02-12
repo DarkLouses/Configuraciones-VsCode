@@ -1,18 +1,64 @@
 {
-
+    
     "security.workspace.trust.untrustedFiles": "open",
     "explorer.confirmDragAndDrop": false,
     "liveServer.settings.donotShowInfoMsg": true,
     "explorer.confirmDelete": false,
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "editor.fontWeight": "normal",
+    "workbench.colorTheme": "Nord Aurora",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "off",
+    "editor.linkedEditing": true,
+    "editor.guides.bracketPairs": true,
+    "breadcrumbs.enabled": false,
+    "breadcrumbs.filePath": "off",
+    "editor.stickyTabStops": true,
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "editor.guides.bracketPairsHorizontal": true,
 
-    "editor.tokenColorCustomizations":{        
-        "comments": "#00d9ff"        
-},
-"editor.fontSize": 18,
-"workbench.colorTheme": "Eva Dark Bold",
-"editor.fontFamily": "Dank Mono",
-"editor.fontLigatures": true
+    "editor.tokenColorCustomizations":{
+        "comments": "#ffffff"
+    },
+
+    "editor.fontWeight": "1000",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 13.5,
+    "editor.fontFamily": "Lilex Nerd Font Mono",
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "breadcrumbs.showClasses": false,
+    "breadcrumbs.showBooleans": false,
+    "breadcrumbs.showArrays": false,
+    "breadcrumbs.icons": false,
+    "breadcrumbs.showConstants": false,
+    "breadcrumbs.showConstructors": false,
+    "breadcrumbs.showEnums": false,
+    "breadcrumbs.showEnumMembers": false,
+    "breadcrumbs.showEvents": false,
+    "breadcrumbs.showFiles": false,
+    "breadcrumbs.showFields": false,
+    "breadcrumbs.showFunctions": false,
+    "breadcrumbs.showInterfaces": false,
+    "breadcrumbs.showKeys": false,
+    "breadcrumbs.showMethods": false,
+    "breadcrumbs.showModules": false,
+    "breadcrumbs.showNamespaces": false,
+    "breadcrumbs.showNull": false,
+    "breadcrumbs.showNumbers": false,
+    "breadcrumbs.showOperators": false,
+    "breadcrumbs.showObjects": false,
+    "breadcrumbs.showPackages": false,
+    "breadcrumbs.showProperties": false,
+    "breadcrumbs.showStrings": false,
+    "breadcrumbs.showStructs": false,
+    "breadcrumbs.showTypeParameters": false,
+    "breadcrumbs.showVariables": false,
+    "breadcrumbs.symbolPath": "off",
+    "workbench.colorCustomizations": {},
+    "workbench.startupEditor": "none",
+    "git.confirmSync": false,
 
 }
